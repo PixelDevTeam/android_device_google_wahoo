@@ -1,3 +1,10 @@
+# Pixel 4 spoofing
+ro.build.fingerprint=google/flame/flame:11/RP1A.200720.009/6720564:user/release-keys
+ro.product.manufacturer=Google
+ro.product.device=taimen
+ro.product.brand=google
+ro.product.name=flame
+ro.product.model=Pixel 4
 
 persist.rild.nitz_plmn=
 persist.rild.nitz_long_ons_0=
