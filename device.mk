@@ -484,7 +484,7 @@ PRODUCT_PACKAGES += \
     android.hardware.wifi@1.0-service \
     wificond \
     libwpa_client \
-    WifiOverlay
+    WifiOverlay2020
 
 LIB_NL := libnl_2
 PRODUCT_PACKAGES += $(LIB_NL)
